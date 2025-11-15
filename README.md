@@ -1,3 +1,5 @@
+## Overview of the project
+
 Object detection model with YOLO for identifying components of a humanoid robot
 It took a lot of eﬀorts to get the dataset for this model and to make annotations for the images in
 the dataset and it took intense eﬀorts to keep the dataset accurate while also keeping it large
